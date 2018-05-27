@@ -2,4 +2,14 @@
     <string name="app_name">PSI</string>
     <string name="ok">Ok</string>
     <string name="cancel">Cancel</string>
+
+    <!-- Global Error String -->
+    <string name="error">Error</string>
+    <string name="check_error">Error occurred. Please try again.</string>
+    <string name="network_error">Network Error</string>
+    <string name="check_network">Weak network connection.\nPlease attempt later.</string>
+    <string name="check_timeout">Server time out.\nPlease try later.</string>
+    <string name="internet_error">Unable to Connect to Internet</string>
+    <string name="server_timeout">Sever Timeout</string>
+
 </resources>
